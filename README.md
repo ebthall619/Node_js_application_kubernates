@@ -1,9 +1,4 @@
 # Node_js_application_kubernates
 Node_js_application_kubernates
 ------------------------------------------------------
-# Deploying a Node.js Application in Kubernetes
-# Create Nodejs Application
-# Dockerize Application
-# Push to Docker Hub
-# Create Deployment and Service
-# Test Application in Browser
+this repo is describe how to deploy a Node.js application in Kubernetes, Dockerize the application, push it to Docker Hub, create a deployment and service, and finally, test the application in a browser.
